@@ -1,0 +1,21 @@
+.SignOut{
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+    opacity: 1;
+    padding: 1rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.SignOut:hover{
+    color:grey;
+    transition: color .15s ease-in;
+}
+/* .SignOut:hover{
+    color:grey;
+    -webkit-transition: color .15s ease-in;
+    -moz-transition: color .15s ease-in;
+    -o-transition: color .15s ease-in;
+    transition: color .15s ease-in;
+} */
