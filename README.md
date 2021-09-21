@@ -9,4 +9,4 @@ This is a part of a big project I'm working on which will have both server, and 
 
 Technologies used- ReactJS, JavaScript, CSS, HTML.
 
-![Screenshot of FaceRecognitionBrain app](![image](https://user-images.githubusercontent.com/73097571/134228767-82e61e87-5903-48e4-8245-58cd056a36fd.png))
+![Screenshot of FaceRecognitionBrain app](https://user-images.githubusercontent.com/73097571/134228767-82e61e87-5903-48e4-8245-58cd056a36fd.png)
