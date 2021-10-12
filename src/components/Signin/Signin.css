@@ -157,6 +157,15 @@
     margin-left: auto;
 }
 
+.center1{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
 .dim {
     opacity: 1;
     transition: opacity .15s ease-in;
