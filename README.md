@@ -1,4 +1,4 @@
-The app can be accesed at web domain - https://facerecogniser-front.herokuapp.com/.
+The app can be accesed at web domain - https://facerecogniser-alt.herokuapp.com/.
 
 Facerecogniser is fully front-end app. It can be used for face detection in an image via URL.
 The way it does is through use of Clarifai API. 
